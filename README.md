@@ -1,7 +1,7 @@
 Welcome to my Github page! Here I post my projects that I create in my free time. I will be glad if my code is useful for you or inspires you to create your own projects. 👋
 
 - 🔭 I am currently looking for a job
-- 📫 How to reach me: ![telegram](https://github.com/AlexWebDev-coder/AlexWebDev-coder/assets/88274695/80d699c7-98c9-4386-8a46-4f24b2644d14): [@AlexWeb_dev](https://t.me/AlexWeb_Dev)
+- 📫 How to reach me: Telegram: [@AlexWeb_dev](https://t.me/AlexWeb_Dev)
 <!--
 **AlexWebDev-coder/AlexWebDev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
